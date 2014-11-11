@@ -1,0 +1,27 @@
+{
+  "name": "transtype",
+  "author": "Nicolas Thouvenin <nthouvenin@gmail.com>",
+  "version": "0.0.0",
+  "description": "Transform string to specific type like an human",
+  "main": "./lib/transtype.js",
+  "homepage": "http://github.com/touv/node-transtype",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/touv/node-transtype.git"
+  },
+  "keywords": [],
+  "devDependencies": {},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/touv/node-transtype/issues"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {
+    "dateable": "^1.0.1"
+  }
+}
