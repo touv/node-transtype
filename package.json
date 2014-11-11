@@ -1,7 +1,7 @@
 {
   "name": "transtype",
   "author": "Nicolas Thouvenin <nthouvenin@gmail.com>",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Transform string to specific type like an human",
   "main": "./lib/transtype.js",
   "homepage": "http://github.com/touv/node-transtype",
